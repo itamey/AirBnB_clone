@@ -265,7 +265,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 <details>
     <summary>George Evaristus</summary>
     <ul>
-    <li><a href="https://www.github.com/Georgesmart">Github</a></li>
+    <li><a href="https://www.github.com/George-smart">Github</a></li>
     <li><a href="https://www.twitter.com/George_smart01">Twitter</a></li>
     <li><a href="mailto:georgechinedu2018@gmail.com">e-mail</a></li>
     </ul>
